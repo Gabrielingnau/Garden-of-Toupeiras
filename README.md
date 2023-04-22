@@ -2,7 +2,7 @@
 
 The idea is to set up a scenario with SVG images and animations with keyframes.
 
-# O que será abordado nesse desafio:
+# What will be addressed in this challenge:
 
 - Grid;
 - Animations with keyframes
